@@ -1,0 +1,149 @@
+.loadingform {
+  position: relative;
+  margin: 0 auto;
+  border: solid 3px;
+  border-radius: 20px;
+  width: 385px;
+  height: 803px;
+  background-color: #fff3b5;
+  z-index: -1;
+  overflow: hidden;
+}
+
+.loadingicon {
+  position: absolute;
+  left: 92px;
+  top: 309px;
+}
+.save {
+  position: absolute;
+  width: 600px;
+  height: 70px;
+  left: 125px;
+  top: 80px;
+  font-weight: 500;
+  font-size: 20px;
+  animation: fadein 3ss;
+  -moz-animation: fadein 2.5s;
+  -webkit-animation: fadein 2.5s;
+  -o-animation: fadein 2.5s;
+  font-family: "bmjua";
+}
+@keyframes fadein {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+
+.baedalbee1 {
+  font-family: "bmjua";
+
+  position: absolute;
+  width: 600px;
+  height: 70px;
+  left: 100px;
+  top: 120px;
+  font-weight: 600;
+  font-size: 60px;
+  animation: fadein 3s;
+  -moz-animation: fadein 2.5s;
+  -webkit-animation: fadein 2.5s;
+  -o-animation: fadein 2.5s;
+}
+@keyframes fadein {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+
+.summerbee {
+  width: 80px;
+  position: absolute;
+  top: 600px;
+  left: 0px;
+  animation-name: summerbee;
+  animation-duration: 3s;
+  animation-delay: 0.5s;
+  animation-direction: normal;
+  animation-iteration-count: 1;
+  animation-play-state: initial;
+  animation-timing-function: 1s;
+  animation-fill-mode: both;
+}
+
+@keyframes summerbee {
+  from {
+    margin-left: 400px;
+    width: 80px;
+  }
+  to {
+    margin-left: -170px;
+    width: 80px;
+  }
+}
+
+.bee1 {
+  width: 60px;
+  position: absolute;
+  top: 30px;
+  left: 0px;
+  animation-name: bee123;
+  animation-duration: 3s;
+  animation-delay: 1s;
+  animation-direction: normal;
+  animation-iteration-count: 1;
+  animation-play-state: initial;
+  animation-timing-function: 1s;
+  animation-fill-mode: both;
+  /* animation:
+  dodging1 1s ease-in-out infinite; */
+}
+
+@keyframes bee123 {
+  0% {
+    margin-left: 400px;
+    top: 0;
+  }
+  15% {
+    top: 75px;
+  }
+  25% {
+    top: 40px;
+  }
+  50% {
+    top: 105px;
+  }
+  65% {
+    top: 65px;
+  }
+  /* 75%{
+    top: 45px;
+  } */
+  85% {
+    top: 100px;
+  }
+  100% {
+    margin-left: -100px;
+    top: 0px;
+  }
+}
+@keyframes dodging1 {
+  0% {
+    top: 0;
+  }
+
+  50% {
+    top: 75px;
+  }
+
+  100% {
+    top: 0;
+  }
+}
+/*  */

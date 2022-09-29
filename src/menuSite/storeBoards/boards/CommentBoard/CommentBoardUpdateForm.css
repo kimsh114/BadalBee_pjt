@@ -1,0 +1,79 @@
+.mini_update_in {
+  font-family: "BMJUA";
+  /* margin-bottom: 10px; */
+  margin-left: 10px;
+}
+.mini_update_name {
+  margin-bottom: 10px;
+  height: 2rem;
+  font-family: "BMJUA";
+  margin-left: 2.2%;
+  margin-top: 8px;
+  width: 92%;
+  padding-top: 10px;
+  text-align: left;
+  border-radius: 10px;
+  text-align: left;
+  background: white;
+  padding-left: 10px;
+
+  border: none;
+  font-size: 20px;
+  font-weight: 500;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+.mini_update_content {
+  margin-bottom: 10px;
+  height: 2.5rem;
+  font-family: "BMJUA";
+  margin-left: 2.2%;
+  margin-top: 10px;
+  padding-left: 10px;
+  width: 92%;
+  text-align: left;
+  border-radius: 10px;
+  text-align: left;
+  background: white;
+  border: none;
+  font-size: 20px;
+  font-weight: 500;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+.mini_update_price {
+  margin-bottom: 10px;
+  height: 2.5rem;
+  font-family: "BMJUA";
+  margin-left: 2.2%;
+  margin-top: 10px;
+  width: 92%;
+  text-align: left;
+  border-radius: 10px;
+  padding-left: 10px;
+
+  text-align: left;
+  background: white;
+  border: none;
+  font-size: 20px;
+  font-weight: 500;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+.mini_update_btn {
+  width: 107px;
+  height: 40px;
+  font-size: 20px;
+  font-weight: 600;
+  cursor: pointer;
+  border: none;
+  font-family: "BMJUA";
+  background: #f1c204;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  border-radius: 10px;
+}
+.mini_update_btn:hover {
+  scale: 0.95;
+  transition: 0.3s;
+}
+
+.mini_update_btn {
+  transition: 0.3s;
+}

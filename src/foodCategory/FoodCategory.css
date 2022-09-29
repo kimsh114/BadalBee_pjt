@@ -1,0 +1,108 @@
+.FoodCategory {
+  position: relative;
+  margin: 0 auto;
+  border: solid 3px;
+  border-radius: 20px;
+  width: 385px;
+  height: 803px;
+  margin-top: 50px;
+
+  background: whitesmoke;
+  overflow: hidden;
+  font-family: "DO Hyeon";
+}
+
+.baedalbee {
+  padding-top: 50px;
+  text-align: center;
+  font-weight: 600;
+  font-size: 50px;
+}
+
+.category_img:hover {
+  scale: 0.95;
+  transition: 0.3s;
+}
+.category_img {
+  transition: 0.3s;
+}
+
+#imcafe {
+  position: absolute;
+  left: 58.73%;
+  right: 12.8%;
+  top: 70.63%;
+  bottom: 17.86%;
+}
+
+#imporkfood {
+  position: absolute;
+  left: 47.13%;
+  right: 24.8%;
+  top: 60.87%;
+  bottom: 27.22%;
+}
+
+#impizza {
+  position: absolute;
+  left: 24.07%;
+  right: 48.27%;
+  top: 60.8%;
+  bottom: 27.09%;
+}
+
+#imchina {
+  position: absolute;
+  left: 1.4%;
+  right: 72%;
+  top: 41.49%;
+  bottom: 45.81%;
+}
+
+#imjapan {
+  position: absolute;
+  left: 36.15%;
+  right: 36.53%;
+  top: 51.31%;
+  bottom: 36.58%;
+}
+
+#imkfood {
+  position: absolute;
+  left: 48.43%;
+  right: 24.8%;
+  top: 41.89%;
+  bottom: 46.06%;
+}
+
+#imchicken {
+  position: absolute;
+  left: 71.6%;
+  right: 1.07%;
+  top: 41.89%;
+  bottom: 45.94%;
+}
+
+#imdessert {
+  position: absolute;
+  left: 36.63%;
+  right: 36.8%;
+  top: 32.27%;
+  bottom: 55.42%;
+}
+
+#imburger {
+  position: absolute;
+  left: 60.03%;
+  right: 12.8%;
+  top: 32.27%;
+  bottom: 55.42%;
+}
+
+#imsandwich {
+  position: absolute;
+  left: 13.18%;
+  right: 60%;
+  top: 51.07%;
+  bottom: 36.65%;
+}

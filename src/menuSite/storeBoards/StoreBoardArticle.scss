@@ -1,0 +1,114 @@
+.chicken_tbl {
+  margin-top: 15px;
+  margin-bottom: 15px;
+}
+
+.logout_1 {
+  display: inline-block;
+  width: 110px;
+  height: 40px;
+  font-size: 20px;
+ font-family: bmjua;
+  cursor: pointer;
+  border: none;
+
+  font-style: normal;
+
+  background: #f1c204;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  border-radius: 30px;
+}s
+.logout_1:hover {
+  scale: 0.95;
+  transition: 0.3s;
+}
+.font_style{
+  padding-top:30px;
+  margin:10px;
+  text-align: left;
+  margin-left: 30px;
+}
+.no_store{
+  border: none;
+  height: 300px;
+  text-align: center;
+  font-family: bmjua;
+  font-size: 70px;
+  width: 90%;
+    margin-left: 5%;
+  border-radius: 10px;
+ 
+  margin: 0 auto;
+  margin-top: 40px;
+  background-color: white;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+.logout_1 {
+  transition: 0.3s;
+  width: 80px;
+    height: 30px;
+    font-size: 15px;
+}
+
+.scroll3 {
+  margin-top: 10px; 
+  border: none;
+  height: 550px;
+  /* overflow-x: hidden; */
+  overflow: auto;
+  /* overflow-x: hidden; */
+}
+
+.scroll3::-webkit-scrollbar {
+  width: 5px;
+
+  /* background-color: black; */
+}
+
+.scroll3::-webkit-scrollbar-thumb {
+  background-color: rgb(187, 180, 180);
+  /* background-color: black; */
+}
+
+.scroll3::-webkit-scrollbar-track {
+  /* background-color: black; */
+  background-color: whitesmoke;
+}
+
+::-webkit-scrollbar-track {}
+
+.categoryGo:hover {
+  scale: 0.95;
+  transition: 0.3s;
+}
+
+.categoryGo {
+  display: inline-block;
+  transition: 0.3s;
+  font-family: bmjua;
+  border: none;
+}
+.header{
+  display: inline-block;
+  padding-left: 20px;
+    padding-right: 20px;
+    font-family: "DO Hyeon"
+ 
+}
+.headers{
+text-align: center;
+
+}
+.categoryGo {
+  width: 80px;
+  height: 30px;
+  font-size: 15px;
+  font-weight: 600;
+  cursor: pointer;
+
+  font-style: normal;
+
+  background: #f1c204;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  border-radius: 30px;
+}

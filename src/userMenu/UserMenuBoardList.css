@@ -1,0 +1,103 @@
+/* .logout {
+  width: 75px;
+  height: 28px;
+  font-size: 15px;
+  font-weight: 600;
+  cursor: pointer;
+  font-style: normal;
+  background: #f1c204;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  border-radius: 10px;
+}
+.logout:hover {
+  scale: 0.95;
+  transition: 0.3s;
+}
+.logout {
+  transition: 0.3s;
+} */
+.order_inner {
+  font-family: "bmjua";
+}
+.order_desc {
+  padding-left: 15px;
+  padding-right: 15px;
+  font-family: bmjua;
+}
+.noorder_tb {
+  font-family: bmjua;
+}
+.list_btn {
+  width: 100px;
+  height: 40px;
+  font-size: 16px;
+  font-weight: 600;
+  font-family: "BMJUA";
+  cursor: pointer;
+  font-style: normal;
+  background: #f1c204;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  border-radius: 10px;
+  border: none;
+}
+.UserStoreBoardList_info {
+  background-color: white;
+  border-radius: 10px;
+  width: 360px;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  margin: 0 auto;
+  font-family: bmjua;
+  /* height: 350px; */
+}
+
+.UserStoreBoardList_info {
+  overflow-y: auto;
+  height: 430px;
+  margin-bottom: 10px;
+}
+.UserStoreBoardList_info::-webkit-scrollbar {
+  width: 5px;
+
+  /* background-color: black; */
+}
+.UserStoreBoardList_info::-webkit-scrollbar-thumb {
+  background-color: rgb(187, 180, 180);
+  /* background-color: black; */
+}
+
+.UserStoreBoardList_info::-webkit-scrollbar-track {
+  /* background-color: black; */
+  background-color: rgb(187, 180, 180);
+}
+
+.list_btn:hover {
+  scale: 0.95;
+  transition: 0.3s;
+}
+
+.list_btn {
+  transition: 0.3s;
+  margin-top: 20px;
+}
+
+.article_btn {
+  width: 70px;
+  height: 40px;
+  font-size: 16px;
+  font-weight: 600;
+  border: none;
+
+  font-family: "BMJUA";
+  cursor: pointer;
+  font-style: normal;
+  background: #f1c204;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  border-radius: 10px;
+}
+.article_btn:hover {
+  scale: 0.95;
+  transition: 0.3s;
+}
+.article_btn {
+  transition: 0.3s;
+}

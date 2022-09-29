@@ -1,0 +1,121 @@
+.listp {
+  margin-left: 20px;
+  font-weight: 800;
+  width: 250px;
+  font-size: 35px;
+}
+
+.BoardList_scroll {
+  /* margin-top: 20px; */
+  border: none;
+  height: 550px;
+  /* overflow-x: hidden; */
+  overflow: auto;
+  /* overflow-x: hidden; */
+}
+
+.BoardList_scroll::-webkit-scrollbar {
+  width: 5px;
+
+  /* background-color: black; */
+}
+
+.BoardList_scroll::-webkit-scrollbar-thumb {
+  background-color: rgb(187, 180, 180);
+  /* background-color: black; */
+}
+
+.BoardList_scroll::-webkit-scrollbar-track {
+  /* background-color: black; */
+  background-color: whitesmoke;
+}
+.G_logoutBtn {
+  position: absolute;
+  cursor: pointer;
+  right: 10px;
+  height: 24px;
+  border: none;
+  background: transparent;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 20px;
+  line-height: 16px;
+  text-align: center;
+  text-decoration: underline;
+}
+.G_logoutBtn:hover {
+  scale: 0.95;
+  transition: 0.3s;
+}
+.G_logoutBtn {
+  transition: 0.3s;
+}
+#G_Btn {
+  border: none;
+  width: 150px;
+  height: 40px;
+  font-size: 20px;
+  font-weight: 600;
+  font-family: "BMJUA";
+  cursor: pointer;
+  font-style: normal;
+  background: #f1c204;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  border-radius: 10px;
+}
+#G_Btn:hover {
+  scale: 0.95;
+  transition: 0.3s;
+}
+.write_content {
+  height: 6rem;
+}
+#G_Btn {
+  transition: 0.3s;
+}
+.upside_btn {
+  text-align: center;
+}
+#G_Btnstore {
+  border: none;
+  width: 150px;
+  height: 40px;
+  font-size: 20px;
+  font-weight: 600;
+  font-family: "BMJUA";
+  cursor: pointer;
+  font-style: normal;
+  background: #f1c204;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  border-radius: 10px;
+}
+.font_div {
+  padding: 45px;
+  padding-left: 20px;
+}
+#G_Btnstore:hover {
+  scale: 0.95;
+  transition: 0.3s;
+}
+#G_Btnstore {
+  transition: 0.3s;
+}
+.none_G {
+  width: 350px;
+  height: 350px;
+  margin: 0 auto;
+  margin-top: 20%;
+  font-size: 56px;
+  font-family: "DO Hyeon";
+  text-align: left;
+  background-color: white;
+  border-radius: 10px;
+
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+
+  border: none;
+}
+.BoardList_buttons {
+  text-align: center;
+  margin-top: 20px;
+}

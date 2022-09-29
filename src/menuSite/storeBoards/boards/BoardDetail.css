@@ -1,0 +1,76 @@
+.mokrok {
+  width: 120px;
+  height: 30px;
+  font-size: 20px;
+  font-weight: 600;
+  margin-top: 15px;
+  margin-bottom: -10px;
+  font-family: "BMJUA";
+  cursor: pointer;
+  font-style: normal;
+  background: #ffcd19;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  border-radius: 10px;
+  border: none;
+}
+.mokrok:hover {
+  scale: 0.95;
+  transition: 0.3s;
+}
+.mokrok {
+  transition: 0.3s;
+}
+.Detail_scroll {
+  border: none;
+  height: 400px;
+
+  margin-top: 25px;
+}
+.tbl_detail {
+  margin-left: 20px;
+}
+.totla2 {
+  padding-top: 5px;
+  border: none;
+  border-radius: 10px;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  width: 360px;
+  margin: 0 auto;
+  margin-top: 40px;
+  font-family: "BMJUA";
+  text-align: left;
+  background-color: white;
+}
+.innner_context {
+  vertical-align: top;
+}
+.board_num {
+  margin-left: 20px;
+  margin-top: 10px;
+}
+.board_title {
+  margin-left: 20px;
+  margin-top: 10px;
+}
+.board_writer {
+  margin-left: 20px;
+  margin-top: 10px;
+}
+.board_location {
+  margin-left: 20px;
+  margin-top: 10px;
+}
+.board_date {
+  margin-left: 20px;
+  margin-top: 10px;
+}
+.board_content {
+  margin-left: 20px;
+  margin-top: 10px;
+}
+
+.board_time {
+  margin-left: 20px;
+  margin-top: 10px;
+  padding-bottom: 10px;
+}

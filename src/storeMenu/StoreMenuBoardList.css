@@ -1,0 +1,33 @@
+.storelogout {
+  position: absolute;
+  cursor: pointer;
+  top: 10px;
+  right: 10px;
+  height: 24px;
+  border: none;
+  background: transparent;
+  font-family: "bmjua";
+  color: #607eaa;
+
+  font-weight: 600;
+  font-size: 20px;
+  text-align: center;
+  text-decoration: underline;
+}
+.storelogout1 {
+  position: absolute;
+  cursor: pointer;
+  top: 10px;
+  right: 10px;
+  height: 24px;
+  font-family: "bmjua";
+  color: #607eaa;
+  border: none;
+  background: transparent;
+
+  font-weight: 600;
+  font-size: 20px;
+
+  text-align: center;
+  text-decoration: underline;
+}

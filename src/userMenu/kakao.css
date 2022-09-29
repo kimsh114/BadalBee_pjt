@@ -1,0 +1,53 @@
+.kakao_th {
+  /* float: left; */
+  /* padding-left: 10px; */
+  padding-right: 10px;
+  width: 100px;
+  text-align: left;
+}
+.kakap_tbl {
+  padding-top: 10px;
+}
+
+.kakao_th1 {
+  /* float: left; */
+  text-align: left;
+  /* padding-left: 10px; */
+  padding-right: 10px;
+}
+
+.kakao_btn {
+  width: 150px;
+  height: 40px;
+  font-size: 16px;
+  font-weight: 600;
+  font-family: "BMJUA";
+  border: none;
+  cursor: pointer;
+  font-style: normal;
+  background: #f1c204;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  border-radius: 10px;
+  transition: 0.3s;
+  margin: 15px;
+  margin-top: 50px;
+}
+
+.kakao_btn:hover {
+  scale: 0.95;
+  transition: 0.3s;
+}
+.kakao_div {
+  border: solid 1px;
+  border-color: gray;
+  background-color: white;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  border-radius: 10px;
+
+  border: none;
+  width: 360px;
+  margin: 0 auto;
+  margin-top: 20px;
+  font-family: "BMJUA";
+  text-align: left;
+}

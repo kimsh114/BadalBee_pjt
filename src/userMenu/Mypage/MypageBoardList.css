@@ -1,0 +1,291 @@
+.myinfo_G {
+  width: 350px;
+  height: 120px;
+  margin: 0 auto;
+  margin-top: 20px;
+  font-size: 20px;
+  font-family: "DO Hyeon";
+  text-align: left;
+  background-color: white;
+  border-radius: 10px;
+  box-shadow: 0px 4px 4px rgb(0 0 0 / 25%);
+  border: none;
+  text-align: right;
+}
+
+.myinfoAll {
+  margin-top: 20px;
+}
+
+.go_myinfo {
+  margin: 0 auto;
+  width: 50px;
+  font-family: "BMJUA";
+  height: 25px;
+  cursor: pointer;
+  background: #f1c204;
+  box-shadow: 0px 4px 4px rgb(0 0 0 / 25%);
+  border-radius: 10px;
+  margin-top: 50px;
+  transition: 0.3s;
+  border: none;
+  right: 5px;
+  width: 70px;
+  transition: 0.3s;
+}
+.go_myinfo:hover {
+  scale: 0.95;
+  transition: 0.3s;
+}
+#mypage_btn1 {
+  position: relative;
+  font-size: 15px;
+  font-family: "BMJUA";
+  height: 35px;
+  bottom: -15px;
+  cursor: pointer;
+  background: #f1c204;
+  box-shadow: 0px 4px 4px rgb(0 0 0 / 25%);
+  border-radius: 10px;
+  transition: 0.3s;
+  border: none;
+  left: 50px;
+  width: 75px;
+  transition: 0.3s;
+}
+#mypage_btn1:hover {
+  scale: 0.95;
+  transition: 0.3s;
+}
+.my_order {
+  display: block;
+  font-size: 2em;
+  margin-block-start: 0.67em;
+  margin-block-end: 0.67em;
+  margin-inline-start: 0px;
+  margin-inline-end: 0px;
+  font-weight: bold;
+}
+.mypage_dd {
+  padding-top: 5px;
+  border: none;
+  border-radius: 10px;
+  box-shadow: 0px 4px 4px rgb(0 0 0 / 25%);
+  width: 360px;
+  margin: 0 auto;
+  margin-top: 10px;
+  font-family: "BMJUA";
+  text-align: left;
+  background-color: white;
+  padding-left: 10px;
+
+  padding-top: 10px;
+  padding-bottom: 10px;
+  line-height: 20px;
+}
+.mypage_input {
+  box-shadow: 0px 4px 4px rgb(0 0 0 / 25%);
+  border: none;
+  text-align: center;
+  font-family: "BMJUA";
+  border-radius: 10px;
+  height: 40px;
+  font-size: 20px;
+  margin-left: 5%;
+  width: 90%;
+}
+.G_mypageinput {
+  margin-top: 40px;
+}
+.mypage_btn {
+  margin: 0 auto;
+
+  font-family: "BMJUA";
+  height: 25px;
+  cursor: pointer;
+  background: #f1c204;
+  box-shadow: 0px 4px 4px rgb(0 0 0 / 25%);
+  border-radius: 10px;
+  margin-top: 50px;
+  transition: 0.3s;
+  border: none;
+  right: 5px;
+  width: 70px;
+  transition: 0.3s;
+}
+.mypage_btn:hover {
+  scale: 0.95;
+  transition: 0.3s;
+}
+.inner_info {
+  padding-left: 10px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  text-align: left;
+}
+#myinfo_head {
+  /* width: 92%; */
+  text-align: center;
+  width: 170px;
+}
+.ex_info {
+  font-family: "BMJUA";
+  margin-left: 20px;
+  /* margin-top: 10px; */
+  /* padding-top: 10px; */
+}
+#fst_input {
+  margin-top: 20px;
+}
+
+.scroll_mypage {
+  /* margin-top: 20px; */
+  border: none;
+  height: 600px;
+
+  /* overflow-x: hidden; */
+  overflow: auto;
+  /* overflow-x: hidden; */
+}
+.scroll_mypage::-webkit-scrollbar {
+  width: 5px;
+
+  /* background-color: black; */
+}
+.scroll_mypage::-webkit-scrollbar-thumb {
+  background-color: rgb(187, 180, 180);
+  /* background-color: black; */
+}
+.scroll_mypage::-webkit-scrollbar-track {
+  /* background-color: black; */
+  background-color: white;
+  border-radius: 3px;
+}
+
+.mypage_back {
+  margin: 0 auto;
+
+  font-family: "BMJUA";
+  height: 25px;
+  cursor: pointer;
+  background: #f1c204;
+  box-shadow: 0px 4px 4px rgb(0 0 0 / 25%);
+  border-radius: 10px;
+  margin-top: 50px;
+  transition: 0.3s;
+  border: none;
+  right: 5px;
+  width: 70px;
+  transition: 0.3s;
+}
+.mypage_back:hover {
+  scale: 0.95;
+  transition: 0.3s;
+}
+
+#mypage_back1 {
+  position: relative;
+  right: 165px;
+  bottom: 440px;
+}
+.mypageinfo_btn {
+  margin: 0 auto;
+  width: 50px;
+  font-family: "BMJUA";
+  height: 25px;
+  cursor: pointer;
+  background: #f1c204;
+  box-shadow: 0px 4px 4px rgb(0 0 0 / 25%);
+  border-radius: 10px;
+  margin-top: 50px;
+  transition: 0.3s;
+  border: none;
+  right: 5px;
+  width: 70px;
+  transition: 0.3s;
+}
+.mypageinfo_btn:hover {
+  scale: 0.95;
+  transition: 0.3s;
+}
+#mypage_btn {
+  width: 100px;
+  font-size: 20px;
+  margin-left: 37%;
+  height: 40px;
+}
+
+.scroll_mypage {
+  /* margin-top: 20px; */
+  border: none;
+  height: 600px;
+
+  /* overflow-x: hidden; */
+  overflow: auto;
+  /* overflow-x: hidden; */
+}
+.scroll_mypage::-webkit-scrollbar {
+  width: 5px;
+
+  /* background-color: black; */
+}
+.scroll_mypage::-webkit-scrollbar-thumb {
+  background-color: rgb(187, 180, 180);
+  /* background-color: black; */
+}
+.scroll_mypage::-webkit-scrollbar-track {
+  /* background-color: black; */
+  background-color: white;
+  border-radius: 3px;
+}
+
+.scroll_List {
+  /* margin-top: 20px; */
+  border: none;
+  height: 550px;
+
+  /* overflow-x: hidden; */
+  overflow: auto;
+  /* overflow-x: hidden; */
+}
+.scroll_List::-webkit-scrollbar {
+  width: 5px;
+
+  /* background-color: black; */
+}
+.scroll_List::-webkit-scrollbar-thumb {
+  background-color: rgb(187, 180, 180);
+  /* background-color: black; */
+}
+.scroll_List::-webkit-scrollbar-track {
+  /* background-color: black; */
+  background-color: white;
+  border-radius: 3px;
+}
+
+.header1 {
+  font-family: "DO Hyeon";
+  margin-left: 115px;
+  margin-top: 40px;
+}
+
+.outmember {
+  position: relative;
+
+  font-family: "BMJUA";
+  height: 25px;
+  bottom: 440px;
+  cursor: pointer;
+  background: #f1c204;
+  box-shadow: 0px 4px 4px rgb(0 0 0 / 25%);
+  border-radius: 10px;
+  transition: 0.3s;
+  border: none;
+  left: 285px;
+  width: 70px;
+  transition: 0.3s;
+}
+.outmember:hover {
+  scale: 0.95;
+  transition: 0.3s;
+}

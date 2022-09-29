@@ -1,0 +1,87 @@
+.update_in {
+  font-family: "BMJUA";
+  margin-bottom: 10px;
+  margin-top: 10px;
+  margin-left: 10px;
+}
+#update_id {
+  margin-top: 50px;
+}
+.update_title {
+  margin-bottom: 10px;
+  height: 2rem;
+  font-family: "BMJUA";
+  margin-left: 2.2%;
+  margin-top: 10px;
+  width: 93%;
+  text-align: left;
+  border-radius: 10px;
+  text-align: left;
+  background: white;
+  border: none;
+  font-size: 20px;
+  font-weight: 500;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+.update_writer {
+  margin-bottom: 10px;
+  height: 2rem;
+  font-family: "BMJUA";
+  margin-left: 2.2%;
+  margin-top: 10px;
+  width: 93%;
+  text-align: left;
+  border-radius: 10px;
+  text-align: left;
+  background: white;
+  border: none;
+  font-size: 20px;
+  font-weight: 500;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+.update_content {
+  margin-bottom: 10px;
+  height: 8rem;
+  font-family: "BMJUA";
+  margin-left: 2.2%;
+  margin-top: 10px;
+  width: 93%;
+  text-align: left;
+  border-radius: 10px;
+  text-align: left;
+  background: white;
+  border: none;
+  font-size: 20px;
+  font-weight: 500;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+.update_location {
+  margin-bottom: 10px;
+  height: 2rem;
+  font-family: "BMJUA";
+  margin-left: 2.2%;
+  margin-top: 10px;
+  width: 93%;
+  text-align: left;
+  border-radius: 10px;
+  text-align: left;
+  background: white;
+  border: none;
+  font-size: 20px;
+  font-weight: 500;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+.update_btn {
+  width: 107px;
+  height: 40px;
+  font-size: 20px;
+  margin-top: 60px;
+  margin-left: 20px;
+  font-weight: 600;
+  cursor: pointer;
+  border: none;
+  font-family: "BMJUA";
+  background: #f1c204;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  border-radius: 10px;
+}

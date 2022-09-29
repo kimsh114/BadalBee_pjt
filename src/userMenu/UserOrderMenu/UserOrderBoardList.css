@@ -1,0 +1,75 @@
+.userboard_div {
+  position: relative;
+  border: solid 1px;
+  border-color: gray;
+  background-color: white;
+  width: 360px;
+  margin: 0 auto;
+  margin-top: 20px;
+  font-family: "BMJUA";
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  border-radius: 10px;
+  border: none;
+  /* text-align: left; */
+  height: 450px;
+}
+.userboard_th {
+  padding-right: 10px;
+  width: 100px;
+  font-family: "BMJUA";
+  height: 40px;
+  /* text-align: left; */
+}
+.userboard_del {
+  text-align: center;
+}
+.orderboard_article {
+  font-family: "BMJUA";
+}
+
+.user_btn {
+  width: 60px;
+  height: 30px;
+  font-size: 16px;
+  font-weight: 600;
+  font-family: "BMJUA";
+  cursor: pointer;
+  font-style: normal;
+  background: #f1c204;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  border-radius: 10px;
+  transition: 0.3s;
+  border: none;
+}
+
+.user_btn:hover {
+  scale: 0.95;
+  transition: 0.3s;
+}
+
+.user_btn {
+  transition: 0.3s;
+}
+.orderboard_btn {
+  width: 150px;
+  height: 40px;
+  font-size: 16px;
+  font-weight: 600;
+  font-family: "BMJUA";
+  cursor: pointer;
+  margin-top: 20px;
+  font-style: normal;
+  background: #f1c204;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  border: none;
+
+  border-radius: 10px;
+  transition: 0.3s;
+}
+.orderboard_btn:hover {
+  scale: 0.95;
+  transition: 0.3s;
+}
+.orderboard_btn {
+  transition: 0.3s;
+}

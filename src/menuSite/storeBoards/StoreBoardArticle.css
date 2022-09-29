@@ -1,0 +1,60 @@
+.chicken_div {
+  background-color: white;
+  width: 90%;
+  margin-left: 5%;
+  border-radius: 10px;
+  font-family: "BMJUA";
+  border: none;
+
+  padding-top: 5px;
+  padding-bottom: 5px;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+/* .entrance {
+  width: 50px;
+  height: 30px;
+  font-size: 15px;
+  font-weight: 600;
+  cursor: pointer;
+  font-style: normal;
+  background: #f1c204;
+  border-radius: 10px;
+  border: none;
+  font-family: "BMJUA";
+} */
+
+.store_content2 {
+  border: none;
+  float: left;
+}
+.store_content3 {
+  text-align: left;
+  border: none;
+  padding-bottom: 5px;
+}
+
+.map1 {
+  width: 10px;
+}
+.storearticle_btn {
+  padding: 0;
+  cursor: pointer;
+  width: 60px;
+  margin: 0;
+  height: 60px;
+  background: #f1c204;
+  font-family: bmjua;
+  font-size: 15px;
+  border-radius: 10px;
+  border: none;
+  transition: 0.3s;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+.storearticle_btn:hover {
+  scale: 0.95;
+  transition: 0.3s;
+}
+.asdasd {
+  border: solid 1px;
+}

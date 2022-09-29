@@ -1,0 +1,131 @@
+.logo4 {
+  width: 200px;
+  height: 30px;
+  padding-top: 40px;
+  padding-bottom: 30px;
+  font-weight: 600;
+  font-size: 40px;
+  font-style: normal;
+  font-family: "DO Hyeon";
+
+  text-align: center;
+  color: #333403;
+  margin: 0 auto;
+  position: static;
+  overflow: hidden;
+}
+
+/* .menuPicture {
+  padding: 6px 25px;
+  background-color: #ffcd19;
+  margin-left: 40px;
+  border-radius: 100px;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.5);
+  font-weight: 600;
+​
+  color: balck;
+  cursor: pointer;
+} */
+input[type="file"]::file-selector-button {
+  width: 100px;
+  font-family: "BMJUA";
+  margin-top: 30px;
+  margin-left: 50px;
+  margin-bottom: 10px;
+  /* text-align: center; */
+  height: 30px;
+  font-weight: 700;
+  background: #dadada;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: 0.3s;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+input[type="file"]::file-selector-button:hover {
+  scale: 0.95;
+  transition: 0.3s;
+}
+
+.boardwrite_input {
+  text-align: center;
+}
+.menuName {
+  width: 250px;
+  height: 30px;
+  font-family: "BMJUA";
+  text-align: center;
+  background: white;
+
+  font-size: 17px;
+  padding-left: 10px;
+  border: none;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  border-radius: 10px;
+}
+.menuPrice {
+  width: 250px;
+  height: 30px;
+  font-family: "BMJUA";
+
+  background: white;
+  /* box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  border-radius: 10px; */
+  font-size: 17px;
+  padding-left: 10px;
+  border: none;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  border-radius: 10px;
+}
+.menucancle {
+  /* position: absolute; */
+  width: 100px;
+  height: 40px;
+  font-size: 20px;
+  font-weight: 600;
+  cursor: pointer;
+  border: none;
+  font-style: normal;
+  font-family: "BMJUA";
+
+  background: #ffcd19;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  border-radius: 10px;
+}
+.menuwrite {
+  /* position: absolute; */
+  width: 100px;
+  height: 40px;
+  font-size: 20px;
+  font-weight: 600;
+  cursor: pointer;
+  font-family: "BMJUA";
+  margin-bottom: 20px;
+  border: none;
+
+  /* left: 104px; */
+  /* top: 602px; */
+  font-style: normal;
+
+  background: #ffcd19;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  border-radius: 10px;
+}
+.menuwrite:hover {
+  scale: 0.95;
+  transition: 0.3s;
+}
+.menuwrite {
+  transition: 0.3s;
+}
+.menucancle:hover {
+  scale: 0.95;
+  transition: 0.3s;
+}
+.menucancle {
+  transition: 0.3s;
+}
+.inner_info {
+  text-align: center;
+  
+}

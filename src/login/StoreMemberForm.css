@@ -1,0 +1,348 @@
+.scroll1 {
+  /* margin-top: 20px; */
+  border: none;
+  height: 550px;
+  text-align: center;
+  /* overflow-x: hidden; */
+  overflow: auto;
+  /* overflow-x: hidden; */
+}
+.scroll1::-webkit-scrollbar {
+  width: 5px;
+
+  /* background-color: black; */
+}
+.scroll1::-webkit-scrollbar-thumb {
+  background-color: rgb(187, 180, 180);
+  /* background-color: black; */
+}
+.scroll1::-webkit-scrollbar-track {
+  /* background-color: black; */
+  background-color: white;
+  border-radius: 3px;
+}
+
+.address_search {
+  margin-left: 193px;
+  width: 100px;
+  font-family: "BMJUA";
+  margin-top: 5px;
+  margin-bottom: 10px;
+  height: 30px;
+  font-weight: 700;
+  background: #dadada;
+  box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.25);
+
+  border-radius: 10px;
+  cursor: pointer;
+  transition: 0.3s;
+  border-radius: 5px;
+  border: none;
+}
+.address_search:hover {
+  scale: 0.95;
+  transition: 0.3s;
+}
+.address_search {
+  transition: 0.3s;
+}
+.storelogin_form {
+  text-align: center;
+  margin-bottom: 20px;
+}
+.logo3 {
+  width: 200px;
+  height: 60px;
+  padding-top: 45px;
+  /* padding-bottom: 3px; */
+  font-weight: 600;
+  font-size: 30px;
+  font-style: normal;
+  font-family: "DO Hyeon";
+
+  text-align: center;
+  color: #333403;
+  margin: 0 auto;
+  position: static;
+
+  /* animation: fadein 1s; */
+}
+.sgaip_id {
+  /* position: absolute; */
+  width: 310px;
+  font-family: "BMJUA";
+  height: 40px;
+  margin-right: 10px;
+
+  /* top: 301px;  */
+  background: white;
+  border-radius: 3px;
+  border: none;
+  margin-top: 20px;
+  box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.25);
+  font-size: 17px;
+  padding-left: 10px;
+  /* animation: fadein 2s; */
+}
+.sgaip_pw {
+  /* position: absolute; */
+  width: 310px;
+  font-family: "BMJUA";
+  height: 40px;
+  margin-right: 10px;
+
+  /* top: 301px;  */
+  background: white;
+  border-radius: 3px;
+  border: none;
+  margin-top: 20px;
+  box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.25);
+  font-size: 17px;
+  padding-left: 10px;
+  /* animation: fadein 2s; */
+}
+.sgaip_name {
+  width: 310px;
+  font-family: "BMJUA";
+  height: 40px;
+  margin-right: 10px;
+
+  /* top: 301px;  */
+  background: white;
+  border-radius: 3px;
+  border: none;
+  margin-top: 20px;
+  box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.25);
+  font-size: 17px;
+  padding-left: 10px;
+  /* animation: fadein 2s; */
+}
+.sgaip_pname {
+  /* position: absolute; */
+  width: 310px;
+  font-family: "BMJUA";
+  height: 40px;
+  margin-right: 10px;
+
+  /* top: 301px;  */
+  background: white;
+  border-radius: 3px;
+  border: none;
+  margin-top: 20px;
+  box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.25);
+  font-size: 17px;
+  padding-left: 10px;
+  /* animation: fadein 2s; */
+}
+.sgaip_phone {
+  /* position: absolute; */
+  width: 310px;
+  font-family: "BMJUA";
+  height: 40px;
+  margin-right: 10px;
+
+  /* top: 301px;  */
+  background: white;
+  border-radius: 3px;
+  border: none;
+  margin-top: 20px;
+  box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.25);
+  font-size: 17px;
+  padding-left: 10px;
+  /* animation: fadein 2s; */
+}
+#category_select {
+  /* position: absolute; */
+  width: 324px;
+  height: 40px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  margin-left: -7px;
+  border: solid 2px;
+  background: white;
+  border-radius: 3px;
+  border: none;
+  margin-top: 20px;
+  box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.25);
+  font-size: 17px;
+  padding-left: 10px;
+  /* animation: fadein 2s; */
+}
+/* #selcategory{
+  margin-bottom: ;
+} */
+.sgaip_dtime {
+  /* position: absolute; */
+  margin-right: 10px;
+  width: 310px;
+  height: 40px;
+  font-family: "BMJUA";
+
+  /* top: 301px;  */
+  background: white;
+  border-radius: 3px;
+  border: none;
+  margin-top: 20px;
+  box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.25);
+  font-size: 17px;
+  padding-left: 10px;
+  /* animation: fadein 2s; */
+}
+.sgaip_ohour {
+  /* position: absolute; */
+  width: 310px;
+  font-family: "BMJUA";
+  height: 40px;
+  margin-right: 10px;
+
+  /* top: 301px;  */
+  background: white;
+  border-radius: 3px;
+  border: none;
+  margin-top: 20px;
+  box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.25);
+  font-size: 17px;
+  padding-left: 10px;
+  /* animation: fadein 2s; */
+}
+.sgaip_rest {
+  /* position: absolute; */
+  width: 310px;
+  font-family: "BMJUA";
+  height: 40px;
+  margin-right: 10px;
+
+  /* top: 301px;  */
+  background: white;
+  border-radius: 3px;
+  border: none;
+  margin-top: 20px;
+  box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.25);
+  font-size: 17px;
+  padding-left: 10px;
+  /* animation: fadein 2s; */
+}
+.sgaip_dfee {
+  width: 310px;
+  font-family: "BMJUA";
+  height: 40px;
+  margin-right: 10px;
+
+  /* top: 301px;  */
+  background: white;
+  border-radius: 3px;
+  border: none;
+  margin-top: 20px;
+  box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.25);
+  font-size: 17px;
+  padding-left: 10px;
+  /* animation: fadein 2s; */
+}
+
+.sgaip_button {
+  /* position: absolute; */
+  width: 150px;
+  height: 40px;
+  font-size: 20px;
+  font-weight: 600;
+  font-family: "BMJUA";
+  cursor: pointer;
+  font-style: normal;
+  background: #ffcd19;
+  border: none;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  border-radius: 6px;
+  /* animation: fadein 5s; */
+}
+.sgaip_button:hover {
+  scale: 0.95;
+  transition: 0.3s;
+}
+.sgaip_button {
+  transition: 0.3s;
+}
+
+.div112 {
+  text-align: left;
+  margin-left: 31px;
+  margin-bottom: -10px;
+  font-family: "BMJUA";
+}
+.div113 {
+  text-align: left;
+  margin-left: 54px;
+  margin-bottom: -5px;
+  font-family: "BMJUA";
+}
+.div123 {
+  text-align: left;
+  margin-left: 54px;
+  margin-bottom: -5px;
+  font-family: "BMJUA";
+}
+.div321 {
+  margin-left: 40px;
+}
+#category_select {
+  background-color: white;
+  font-family: "BMJUA";
+}
+.gologin1 {
+  width: 150px;
+  height: 40px;
+  font-size: 20px;
+  font-weight: 600;
+  margin-top: 10px;
+  cursor: pointer;
+  font-family: "BMJUA";
+
+  font-style: normal;
+
+  background: #ffcd19;
+  border: none;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  border-radius: 6px;
+}
+
+.gologin1:hover {
+  scale: 0.95;
+  transition: 0.3s;
+}
+.gologin1 {
+  transition: 0.3s;
+}
+#sgaip_pwchdiv {
+  margin-top: 10px;
+}
+#sgaip_pwdiv {
+  margin-top: 10px;
+}
+#sgaip_namediv {
+  margin-top: 10px;
+}
+#sgaip_pnamediv {
+  margin-top: 10px;
+}
+#sgaip_phonediv {
+  margin-top: 10px;
+}
+#sgaip_maxdiv {
+  margin-top: 10px;
+}
+#sgaip_opendiv {
+  margin-top: 10px;
+}
+#sgaip_closediv {
+  margin-top: 10px;
+}
+#sgaip_deliverydiv {
+  margin-top: 10px;
+}
+#sgaip_categorydiv {
+  margin-top: 8px;
+  margin-bottom: -10px;
+}
+#sgaip_addressdiv {
+  margin-bottom: -19px;
+  margin-top: 10px;
+}

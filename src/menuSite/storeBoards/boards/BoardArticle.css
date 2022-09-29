@@ -1,0 +1,187 @@
+/* .article_num {
+  position: absolute;
+  border-radius: 3px;
+  border-bottom: solid 2px;
+  border-right: solid 2px;
+  width: 20px;
+  text-align: center;
+  background-color: black;
+  color: white;
+}
+.article_title {
+  position: absolute;
+  margin-left: 30px;
+  font-family: "BMJUA";
+  font-size: 22px;
+  text-decoration: underline;
+  cursor: pointer;
+}
+.article_writer {
+  position: absolute;
+  margin-top: 68px;
+  font-family: "BMJUA";
+  margin-left: 180px;
+  font-size: 15px;
+}
+.article_location {
+  position: absolute;
+  font-family: "BMJUA";
+  margin-top: 25px;
+  margin-left: 30px;
+}
+.article_date {
+  position: relative;
+  font-family: "BMJUA";
+  float: right;
+  margin-top: 70px;
+  right: 10px;
+  font-size: 12px;
+}
+.article_time {
+} */
+.btx_fix {
+  /* position: absolute; */
+  font-family: "BMJUA";
+  background-color: rgb(247, 208, 53);
+  border: none;
+  text-align: center;
+  width: 50px;
+  margin-left: 11px;
+  height: 110px;
+  font-size: 20px;
+  /* top: 30px;
+  left: 250px; */
+  cursor: pointer;
+  /* display: flex; */
+  border-radius: 5px;
+  transition: 0.3s;
+
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+.btx_fix:hover {
+  scale: 0.95;
+  transition: 0.3s;
+}
+.article_btn1 {
+  /* position: absolute; */
+  font-family: "BMJUA";
+  background-color: rgb(247, 208, 53);
+  border: none;
+  text-align: center;
+  width: 50px;
+  height: 50px;
+  font-size: 20px;
+  /* top: 30px;
+  left: 250px; */
+  cursor: pointer;
+  /* display: flex; */
+  border-radius: 5px;
+  transition: 0.3s;
+  margin-top: 0px;
+  margin-bottom: 5px;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+.article_btn1:hover {
+  scale: 0.95;
+  transition: 0.3s;
+}
+.article_btn2 {
+  /* position: absolute; */
+  font-family: "BMJUA";
+  text-align: center;
+  background-color: rgb(247, 208, 53);
+  border: none;
+  /* top: 150px;
+  left: 250px; */
+  width: 50px;
+  height: 50px;
+  font-size: 20px;
+  cursor: pointer;
+  margin-top: 5px;
+  margin-bottom: 0px;
+  /* display: flex; */
+  border-radius: 5px;
+  transition: 0.3s;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+.article_btn2:hover {
+  scale: 0.95;
+  transition: 0.3s;
+}
+/* .text_div {
+  float: left;
+  text-align: left;
+  line-height: 30px;
+  padding-left: 10px;
+  font-family: "BMJUA";
+} */
+.group_time {
+  color: rgb(3, 146, 179);
+  text-decoration: underline;
+}
+.G_div {
+  border: solid;
+  float: left;
+  width: 280px;
+  /* margin-top: 20px; */
+  /* overflow: hidden; */
+  border-radius: 5px;
+  background-color: white;
+  cursor: pointer;
+  font-family: bmjua;
+  margin-left: 15px;
+  padding-left: 10px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  height: 100px;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  border: none;
+}
+.BoardArticle_content {
+  line-height: 1.25rem;
+  padding-top: 1px;
+  margin-left: 10px;
+  line-height: 22px;
+}
+.num_cnt {
+  border: solid 2px;
+  border-radius: 5px;
+  padding: 2px;
+  color: black;
+  border-color: rgb(212, 212, 212);
+  background-color: rgb(212, 212, 212);
+}
+.btitle {
+  color: rgb(3, 146, 179);
+  font-size: 1.5rem;
+}
+.num_cnt {
+  font-size: 1.3rem;
+}
+
+.G_div:hover {
+  scale: 0.99;
+  transition: 0.3s;
+}
+.G_div {
+  transition: 0.3s;
+  line-height: 23px;
+  padding-bottom: 20px;
+  padding-top: 10px;
+}
+.pick {
+  margin-left: -20px;
+}
+.article_btns {
+  width: 70px;
+}
+
+.hugge {
+  display: inline-flex;
+  align-items: center;
+  margin-top: 30px;
+}
+
+.group_timer {
+  color: rgb(3, 146, 179);
+}

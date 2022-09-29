@@ -1,0 +1,27 @@
+input,
+textarea,
+font-family {
+  text-align: center;
+
+  margin: 10px;
+}
+@font-face {
+  font-family: "BMJUA";
+  src: url("https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_one@1.0/BMJUA.woff")
+    format("woff");
+  font-weight: 900;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "DO Hyeon";
+  src: url("https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_one@1.0/BMJUA.woff")
+    format("woff");
+  font-weight: 900;
+  font-style: normal;
+}
+
+*::selection {
+  background-color: #ffcd19;
+  scroll-behavior: smooth;
+}

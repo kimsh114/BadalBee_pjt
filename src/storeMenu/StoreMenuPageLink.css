@@ -1,0 +1,12 @@
+.page {
+  /* display: inline; */
+  cursor: pointer;
+  text-align: center;
+  margin: 0 auto;
+  color: #607eaa;
+  font-family: "bmjua";
+}
+.center_page {
+  text-align: center;
+  display: inline-block;
+}
