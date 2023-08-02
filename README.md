@@ -4,4 +4,8 @@
 
 @ 참여 인원: 한형진(팀장), 김성환(팀원), 김건(팀원), 전우진(팀원), 황기성(팀원), 문경현(팀원)
 
-@ 
+@ Tect & EditTool
+
+-> flont_End: Html5, Css, Javascript, React
+-> Back_End: Node.js, MySql
+-> EditTool: vscode
