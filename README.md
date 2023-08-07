@@ -1,9 +1,5 @@
 <hr>
 
-<div align='center'>
-  <img width='50%' src='.\public\deliveryBee.svg'></img>
- </div>
-
 <hr>
 <br>
 
